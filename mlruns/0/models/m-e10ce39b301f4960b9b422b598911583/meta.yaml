@@ -1,0 +1,10 @@
+artifact_location: file:///Users/imaadfakier/Desktop/my%20life/corporate/hunt%20for%20employment/hiring_process_tracker/oes/tf-mlflow-sprint/mlruns/0/models/m-e10ce39b301f4960b9b422b598911583/artifacts
+creation_timestamp: 1759851883712
+experiment_id: '0'
+last_updated_timestamp: 1759852075631
+model_id: m-e10ce39b301f4960b9b422b598911583
+model_type: null
+name: model
+source_run_id: 8433217ff8a74bec95c06e1048be71a3
+status: 2
+status_message: null

@@ -1,0 +1,7 @@
+tensorflow-macos
+tensorflow-metal
+mlflow
+matplotlib
+seaborn
+numpy
+scikit-learn
