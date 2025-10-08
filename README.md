@@ -62,11 +62,15 @@ mlflow ui
 
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 55 52" src="https://github.com/user-attachments/assets/796f7539-b10f-44ef-80ed-d3c16b4fc6e6" />
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 56 19" src="https://github.com/user-attachments/assets/feef7dd2-3613-49ea-85a0-c51d9fbc7094" />
+
 ---
+
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 54 08" src="https://github.com/user-attachments/assets/8b06fda7-54cd-484c-aaa2-fd9095715f87" />
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 54 13" src="https://github.com/user-attachments/assets/6e7a89fa-8a92-47a8-8dac-b75945ead027" />
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 53 12" src="https://github.com/user-attachments/assets/6f6bb11e-a01c-4d1b-9897-ed5c56a85aa8" />
+
 ---
+
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 54 22" src="https://github.com/user-attachments/assets/8ab1752a-af6b-4cd9-9e05-a9146800a44f" />
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 54 27" src="https://github.com/user-attachments/assets/d7efba6f-c50a-4ca9-b39b-75efd45e21a5" />
 <img width="1453" height="760" alt="Screenshot 2025-10-07 at 17 53 30" src="https://github.com/user-attachments/assets/eacce1bb-f23f-4b0d-8177-0032dc6ab096" />
